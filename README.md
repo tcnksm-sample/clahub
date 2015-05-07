@@ -1,2 +1,2 @@
 # clahub
-Sandbox environment for clahub
+Sandbox environment for clahub.
